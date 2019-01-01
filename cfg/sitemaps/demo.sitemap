@@ -1,0 +1,8 @@
+sitemap demo label="Magichome led testing" {
+    Frame label="Bedroom leds" {
+        Colorpicker item=bedledfar
+        Colorpicker item=bedlednear
+        Colorpicker item=bedled
+        
+    }
+}

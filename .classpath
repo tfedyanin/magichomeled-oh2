@@ -7,6 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="src" path="src/main/java"/>
-	<classpathentry kind="lib" path="lib/jmagichome-0.8.2.jar" sourcepath="lib/jmagichome-0.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jmagichome-0.9.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

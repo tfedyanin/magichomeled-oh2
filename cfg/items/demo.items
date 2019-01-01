@@ -1,0 +1,3 @@
+Group bedled "Bedroom led"
+Color bedledfar "Bedroom led far" (bedled) {channel="magichomeled:magichomeled311:bedfar:color"}
+Color bedlednear "Bedroom led near" (bedled) {channel="magichomeled:magichomeled311:bednear:color"}
