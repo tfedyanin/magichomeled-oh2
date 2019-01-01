@@ -1,3 +1,5 @@
+[ ![Download](https://api.bintray.com/packages/tfedyanin/smart-home/magichomeled/images/download.svg) ](https://bintray.com/tfedyanin/smart-home/magichomeled/_latestVersion)
+
 # MagicHomeLed Binding
 
 This is binding for MagicHome WiFi led controller like on the picture 
